@@ -2,6 +2,8 @@
 ### 1996.02.10
 ### iOS Developer 🖥
 
+__모바일로 접속 시__ 밑의 `View all of README.md` 를 눌러서 확장시켜주세요
+
 <br>
 
 ### Git
@@ -15,6 +17,7 @@
 ## 목차
 * [활동](#활동)
 * [수상내역](#수상내역)
+* [라이브러리](#라이브러리)
 * [프로젝트](#프로젝트)
     * [2018](#2018)
         * SKHU'S - Android, iOS
@@ -53,6 +56,24 @@
 * 단비
     * 교내 IT경진대회 - 동상
     * 한이음 - 입선 수상
+
+<br>
+
+<br>
+
+## 라이브러리
+
+* [NSViewAnim](https://github.com/namsoo5/NSViewAnim) - iOS
+  * 2019.12.11 - 1.0.0버전으로 최초 배포
+  * Pods라이브러리
+  * 구현기능
+    * ViewController 전환시 애니메이션 효과옵션 체이닝
+    * Circular Effect전환
+    * View를 아래로 끌어서 Dismiss
+
+
+
+
 
 <br>
 
