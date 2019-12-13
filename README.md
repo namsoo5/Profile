@@ -2,7 +2,7 @@
 ### 1996.02.10
 ### iOS Developer 🖥
 
-__모바일로 접속 시__ 밑의 `View all of README.md` 를 눌러서 확장시켜주세요
+__모바일로 접속 시__ ⬇️⬇️밑의⬇️⬇️ `View all of README.md` 를 눌러서 확장시켜주세요
 
 <br>
 
