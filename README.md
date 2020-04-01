@@ -30,7 +30,7 @@ __모바일로 접속 시__ ⬇️⬇️밑의⬇️⬇️ `View all of README.m
         * Life-M - iOS
         * 나잡아바라 - iOS
     * [2020](#2020)
-        * WITH - iOS
+        * W!TH - iOS
 
 <br>
 
@@ -41,13 +41,13 @@ __모바일로 접속 시__ ⬇️⬇️밑의⬇️⬇️ `View all of README.m
  * S.OWL 교내 IT 창업 동아리 
     * 2018.06.01 ~ 현재
  * SOPT 대학생 연합 IT벤처 창업 동아리
-    * iOS파트 25기 
-    * 2019.09.14 ~ 현재
+    * iOS파트 25기 (2019.09.14 ~ 2020.01.06 )
+    * iOS파트 26기 (2020.03.02 ~ 현재)
 * 2019 NAVER-CAMPUS-HACKDAY WINTER참여
     * 2019.11.21 ~ 2019.11.22
 * 슥삭 iOS개발자로 근무
     * 동아리 후기탭 앱스토어 배포
-    * 2020.01.20 ~
+    * 2020.01.20 ~ 현재
 
 <br>
 
@@ -77,8 +77,6 @@ __모바일로 접속 시__ ⬇️⬇️밑의⬇️⬇️ `View all of README.m
     * ViewController 전환시 애니메이션 효과옵션 체이닝
     * Circular Effect전환
     * View를 아래로 끌어서 Dismiss
-
-
 
 
 
