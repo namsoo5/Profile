@@ -188,8 +188,8 @@ __모바일로 접속 시__ ⬇️⬇️밑의⬇️⬇️ `View all of README.m
   
   ***
   
-  * [`WiTH`](https://github.com/TEAM-WITH/WITH_RELEASE_iOS) - PLANWITH (팀)
-  * 진행기간 : 2019.01.27 ~ 2020.04.27
+* [`WiTH`](https://github.com/TEAM-WITH/WITH_RELEASE_iOS) - PLANWITH (팀)
+  * 진행기간 : 2020.01.27 ~ 2020.04.27
   * 주요내용 : 기존 해커톤 앱을 더 개발하고 추가하여 배포목표, 여행시 원하는 조건을 필터링 해서 동행을 안전하게 구할 수 있는 앱
   * 구현기능 : 대륙분류 기능을 통한 국가, 날짜, 성별, 키워드 필터를 통한 동행 게시물, Firebase와 노드서버를 이용해서 구현한 채팅으로 동행자를 구할 수 있는 기능, 회원가입과 본인인증에 필요한 사진 서버통신 기능, 관심사 CustomView 및 CollectionView
   * 기여도 : iOS(100%)
