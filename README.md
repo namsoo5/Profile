@@ -98,8 +98,8 @@ __모바일로 접속 시__ ⬇️⬇️밑의⬇️⬇️ `View all of README.m
     * 기여도 : React-Native(40%)
     * 사용스킬 :　**React-Native**
     * 링크 : 
-        * iOS - https://apps.apple.com/kr/app/skhus/id1425354927
-        * Android - https://play.google.com/store/apps/details?id=com.sowl.skhus
+        * iOS - [앱스토어](https://apps.apple.com/kr/app/skhus/id1425354927)
+        * Android - [플레이스토어](https://play.google.com/store/apps/details?id=com.sowl.skhus)
 
 
 <br>
@@ -136,7 +136,7 @@ __모바일로 접속 시__ ⬇️⬇️밑의⬇️⬇️ `View all of README.m
     * 구현기능 : 카테고리별 사진 저장, 저장했던 사진들을 카테고리 별로 보여주는 기능, 동적으로 보여지는 가이드, 연락처 저장기능, 문의게시판, 공지사항, 1:1 문의사항
     * 기여도 : iOS(50%)
     * 사용스킬 : **iOS, Swift, NaverAPI**
-    * 링크 : https://play.google.com/store/apps/details?id=charang.sowl.charang_android
+    * 링크 : [플레이스토어](https://play.google.com/store/apps/details?id=charang.sowl.charang_android)
 <br>
 
 ***
@@ -194,3 +194,7 @@ __모바일로 접속 시__ ⬇️⬇️밑의⬇️⬇️ `View all of README.m
   * 구현기능 : 대륙분류 기능을 통한 국가, 날짜, 성별, 키워드 필터를 통한 동행 게시물, Firebase와 노드서버를 이용해서 구현한 채팅으로 동행자를 구할 수 있는 기능, 회원가입과 본인인증에 필요한 사진 서버통신 기능, 관심사 CustomView 및 CollectionView
   * 기여도 : iOS(100%)
   * 사용스킬 : **iOS, RxSwift, Firebase**
+  * 링크:
+    * iOS: [앱스토어](https://apps.apple.com/app/id1510519818)
+    * Android: [플레이스토어](https://play.google.com/store/apps/details?id=site.withtrip.app)
+
