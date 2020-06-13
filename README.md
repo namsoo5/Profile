@@ -32,6 +32,7 @@ __모바일로 접속 시__ ⬇️⬇️밑의⬇️⬇️ `View all of README.m
     * [2020](#2020)
         * W!TH - iOS
         * WiTH - iOS
+        * 끔연끔주 - iOS
 
 <br>
 
@@ -45,11 +46,13 @@ __모바일로 접속 시__ ⬇️⬇️밑의⬇️⬇️ `View all of README.m
     * iOS파트 25기 (2019.09.14 ~ 2020.01.06 )
     * iOS파트 26기 (2020.03.02 ~ 현재)
 * 2019 NAVER-CAMPUS-HACKDAY WINTER참여
+    * `리스트형 플레이어`
     * 2019.11.21 ~ 2019.11.22
 * 슥삭 iOS개발자로 근무
     * 동아리 후기탭 앱스토어 배포
-    * 2020.01.20 ~ 현재
+    * 2020.01.20 ~ 2020.06.30
 * 2020 NAVER-CAMPUS-HACKDAY참여
+    * `Server Driven UI`
     * 2020.05.06 ~ 2020.05.22
 
 <br>
@@ -197,4 +200,17 @@ __모바일로 접속 시__ ⬇️⬇️밑의⬇️⬇️ `View all of README.m
   * 링크:
     * iOS: [앱스토어](https://apps.apple.com/app/id1510519818)
     * Android: [플레이스토어](https://play.google.com/store/apps/details?id=site.withtrip.app)
+
+<br>
+
+***
+
+* [끔연끔주] - 교내 프로젝트 (팀)
+  * 진행기간 : 2020.04.01 ~ 2020.06.24
+  * 주요내용 : 금연과 금주를 할 수 있도록 도와주는 앱
+  * 구현기능 : 흡연, 음주 측정을 통해서 기록저장 기능, 커뮤니티 기능, 블로그 포스트를 가져오는 기능
+  * 기여도 : iOS(100%)
+  * 사용스킬 : **iOS, Swift, Naver Search API**
+
+<br>
 
