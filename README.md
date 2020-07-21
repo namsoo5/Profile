@@ -33,6 +33,8 @@ __모바일로 접속 시__ ⬇️⬇️밑의⬇️⬇️ `View all of README.m
         * W!TH - iOS
         * WiTH - iOS
         * 끔연끔주 - iOS
+        * 위드살롱 - iOS
+        * 큐링 - iOS
 
 <br>
 
@@ -50,6 +52,8 @@ __모바일로 접속 시__ ⬇️⬇️밑의⬇️⬇️ `View all of README.m
     * 2019.11.21 ~ 2019.11.22
 * 슥삭 iOS개발자로 근무
     * 동아리 후기탭 앱스토어 배포
+    * AppleLogin 개발
+    * 세부 UI변경, 버그개선 및 리팩토링
     * 2020.01.20 ~ 2020.06.30
 * 2020 NAVER-CAMPUS-HACKDAY참여
     * `Server Driven UI`
@@ -69,6 +73,8 @@ __모바일로 접속 시__ ⬇️⬇️밑의⬇️⬇️ `View all of README.m
 * W!TH
     * SOPT 15TH APP JAM 대상
     * 동덕여대 2019 창업 아이디어 경진대회 대상 - 창업지원단
+* 큐링
+    * SOPT 16TH APP JAM 대상
 
 <br>
 
@@ -181,6 +187,7 @@ __모바일로 접속 시__ ⬇️⬇️밑의⬇️⬇️ `View all of README.m
 ***
 
 * [`W!TH`](https://github.com/TEAM-WITH/WITH_iOS) - 안전한 여행 동행 플랫폼 SOPT APP JAM (팀)
+  
   * 진행기간 : 2019.12.21 ~ 2020.01.04
   * 주요내용 : 여행시 원하는 조건을 필터링 해서 동행을 안전하게 구할 수 있는 앱
   * 구현기능 : 국가, 날짜, 성별, 키워드 필터를 통해서 원하는 동행 게시물을 찾을 수 있고, Firebase와 노드서버를 이용해서 구현한 채팅으로 동행자를 구할 수 있는 기능
@@ -192,6 +199,7 @@ __모바일로 접속 시__ ⬇️⬇️밑의⬇️⬇️ `View all of README.m
   ***
   
 * [`WiTH`](https://github.com/TEAM-WITH/WITH_RELEASE_iOS) - PLANWITH (팀)
+  
   * 진행기간 : 2020.01.27 ~ 2020.04.27
   * 주요내용 : 기존 해커톤 앱을 더 개발하고 추가하여 배포목표, 여행시 원하는 조건을 필터링 해서 동행을 안전하게 구할 수 있는 앱
   * 구현기능 : 대륙분류 기능을 통한 국가, 날짜, 성별, 키워드 필터를 통한 동행 게시물, Firebase와 노드서버를 이용해서 구현한 채팅으로 동행자를 구할 수 있는 기능, 회원가입과 본인인증에 필요한 사진 서버통신 기능, 관심사 CustomView 및 CollectionView
@@ -214,3 +222,32 @@ __모바일로 접속 시__ ⬇️⬇️밑의⬇️⬇️ `View all of README.m
 
 <br>
 
+***
+
+* [위드살롱] - 이야기가 여행이 되는 공간 PLANWITH(팀)
+
+  * 진행기간 : 2020.06.25 ~ 2020.07.20
+  * 주요내용 : 일상에서 나누지 못했던 솔직하고 특별한 질문들을 주고받으며 생각하는 앱
+  * 구현기능 : 컨텐츠 페이지, 페이지 컨트롤 뷰, 푸시 뷰, 생각노트 뷰, 실시간 페이지공유, 
+  * 기여도 : iOS(100%)
+  * 사용스킬 : **iOS, Swift, Firebase**
+  * 링크:
+    * iOS: [앱스토어](https://apps.apple.com/kr/app/위드살롱/id1522234917)
+    * Android: [플레이스토어](https://play.google.com/store/apps/details?id=kr.co.withsalon)
+
+  
+
+* [Qring] - QR코드로 만들어가는 우리의 모임 SOPT APP JAM (팀)
+
+  * 진행기간 : 2020.06.27 ~ 2020.07.17
+  * 주요내용 : QR 코드를 통해 모임의 시작을 빠르게, 모임의 끝엔 원활한 피드백을 통해 모임이 더 성숙해지고, 구성원은 함께 성장하게 됩니다.
+  * 구현기능 : 소켓통신 및 이벤트관리, 모임리스트 전역관리, 단답형,객관식,평점 피드백리스트 구현, 피드백현황 구현, 회차별 모임구현,  
+  * 기여도 : iOS(50%)
+  * 사용스킬 : **iOS, Swift, Socket.IO**
+  * 링크:
+    * iOS: [앱스토어](https://apps.apple.com/kr/app/%ED%81%90%EB%A7%81-qr%EC%BD%94%EB%93%9C%EB%A1%9C-%EB%A7%8C%EB%93%A4%EC%96%B4%EA%B0%80%EB%8A%94-%EC%9A%B0%EB%A6%AC%EC%9D%98-%EB%AA%A8%EC%9E%84/id1523625666)
+    * Android: [플레이스토어](https://play.google.com/store/apps/details?id=com.qring.dolphin)
+
+  
+
+<br>
