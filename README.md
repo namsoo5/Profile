@@ -58,6 +58,8 @@ __모바일로 접속 시__ ⬇️⬇️밑의⬇️⬇️ `View all of README.m
 * 2020 NAVER-CAMPUS-HACKDAY참여
     * `Server Driven UI`
     * 2020.05.06 ~ 2020.05.22
+* NEXTERS 17기 활동
+    * 2020.07.04 ~ 2020.08.22
 
 <br>
 
