@@ -45,8 +45,8 @@ __모바일로 접속 시__ ⬇️⬇️밑의⬇️⬇️ `View all of README.m
  * S.OWL 교내 IT 창업 동아리 
     * 2018.06.01 ~ 현재
  * SOPT 대학생 연합 IT벤처 창업 동아리
-    * iOS파트 25기 (2019.09.14 ~ 2020.01.06 )
-    * iOS파트 26기 (2020.03.02 ~ 현재)
+    * iOS파트 25기 (2019.09.14 ~ 2020.01.06)
+    * iOS파트 26기 (2020.03.02 ~ 2020.08.01)
 * 2019 NAVER-CAMPUS-HACKDAY WINTER참여
     * `리스트형 플레이어`
     * 2019.11.21 ~ 2019.11.22
@@ -204,7 +204,7 @@ __모바일로 접속 시__ ⬇️⬇️밑의⬇️⬇️ `View all of README.m
   * 주요내용 : 기존 해커톤 앱을 더 개발하고 추가하여 배포목표, 여행시 원하는 조건을 필터링 해서 동행을 안전하게 구할 수 있는 앱
   * 구현기능 : 대륙분류 기능을 통한 국가, 날짜, 성별, 키워드 필터를 통한 동행 게시물, Firebase와 노드서버를 이용해서 구현한 채팅으로 동행자를 구할 수 있는 기능, 회원가입과 본인인증에 필요한 사진 서버통신 기능, 관심사 CustomView 및 CollectionView
   * 기여도 : iOS(100%)
-  * 사용스킬 : **iOS, RxSwift, Firebase**
+  * 사용스킬 : **iOS, RxSwift, Firebase, Kingfisher, SnapKit**
   * 링크:
     * iOS: [앱스토어](https://apps.apple.com/app/id1510519818)
     * Android: [플레이스토어](https://play.google.com/store/apps/details?id=site.withtrip.app)
@@ -218,7 +218,7 @@ __모바일로 접속 시__ ⬇️⬇️밑의⬇️⬇️ `View all of README.m
   * 주요내용 : 금연과 금주를 할 수 있도록 도와주는 앱
   * 구현기능 : 흡연, 음주 측정을 통해서 기록저장 기능, 커뮤니티 기능, 블로그 포스트를 가져오는 기능
   * 기여도 : iOS(100%)
-  * 사용스킬 : **iOS, Swift, Naver Search API**
+  * 사용스킬 : **iOS, Swift**
 
 <br>
 
@@ -243,7 +243,7 @@ __모바일로 접속 시__ ⬇️⬇️밑의⬇️⬇️ `View all of README.m
   * 주요내용 : QR 코드를 통해 모임의 시작을 빠르게, 모임의 끝엔 원활한 피드백을 통해 모임이 더 성숙해지고, 구성원은 함께 성장하게 됩니다.
   * 구현기능 : 소켓통신 및 이벤트관리, 모임리스트 전역관리, 단답형,객관식,평점 피드백리스트 구현, 피드백현황 구현, 회차별 모임구현,  
   * 기여도 : iOS(50%)
-  * 사용스킬 : **iOS, Swift, Socket.IO**
+  * 사용스킬 : **iOS, Swift, Socket.IO, Then, Alamofire, Charts, lottie**
   * 링크:
     * iOS: [앱스토어](https://apps.apple.com/kr/app/%ED%81%90%EB%A7%81-qr%EC%BD%94%EB%93%9C%EB%A1%9C-%EB%A7%8C%EB%93%A4%EC%96%B4%EA%B0%80%EB%8A%94-%EC%9A%B0%EB%A6%AC%EC%9D%98-%EB%AA%A8%EC%9E%84/id1523625666)
     * Android: [플레이스토어](https://play.google.com/store/apps/details?id=com.qring.dolphin)
