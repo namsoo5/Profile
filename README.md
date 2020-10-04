@@ -267,3 +267,17 @@ __모바일로 접속 시__ ⬇️⬇️밑의⬇️⬇️ `View all of README.m
     * iOS: [앱스토어](https://apps.apple.com/app/id1527993626)
     * Android: [플레이스토어](https://play.google.com/store/apps/details?id=com.nexters.mytine)
 
+<br>
+
+***
+
+* `유니뷰` - 대학교 공지 알림 앱 (팀)
+  * 진행기간 : 2020.08.25 ~ 2020.
+  * 주요내용 : 대학교 공지사항, 학사일정을 한눈에 보고, 키워드 알림까지 받아 볼수 있도록 공지사항을 편리하게 확인할 수 있는 서비스
+  * 도전목표: 클린코드(네이밍, 컨벤션, 일정한 규칙으로 읽기 쉬운 코드작성), TDD, 다크모드, Realm,  재사용뷰 코드로사용하기, 자동완성 Trie구현
+  * 구현기능 : 대학교자동완성, 키워드선택, 디비설계, 북마크탭, 북마크 스와이프 기능, 홈최근검색 및 자동완성, APNs기능, 튜토리얼
+  * 기여도 : iOS(60%)
+  * 사용스킬 : **iOS, Swift, Realm, SnapKit, Firebase, Lottie**
+  * 링크:
+    * iOS: 
+    * Android:
