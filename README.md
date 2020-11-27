@@ -31,7 +31,7 @@ __모바일로 접속 시__ ⬇️⬇️밑의⬇️⬇️ `View all of README.m
         * 나잡아바라 - iOS
     * [2020](#2020)
         * W!TH - iOS
-        * WiTH - iOS
+        * 위드메이트 - iOS
         * 끔연끔주 - iOS
         * 위드살롱 - iOS
         * 큐링 - iOS
@@ -62,6 +62,8 @@ __모바일로 접속 시__ ⬇️⬇️밑의⬇️⬇️ `View all of README.m
     * 2020.05.06 ~ 2020.05.22
 * NEXTERS 17기 활동
     * 2020.07.04 ~ 2020.08.22
+* Mash-Up 10기 활동
+    * 2020.11.28 ~
 
 <br>
 
@@ -202,7 +204,7 @@ __모바일로 접속 시__ ⬇️⬇️밑의⬇️⬇️ `View all of README.m
   
   ***
   
-* [`WiTH`](https://github.com/TEAM-WITH/WITH_RELEASE_iOS) - PLANWITH (팀)
+* [`위드메이트`](https://github.com/TEAM-WITH/WITH_RELEASE_iOS) - PLANWITH (팀)
   
   * 진행기간 : 2020.01.27 ~ 2020.04.27
   * 주요내용 : 기존 해커톤 앱을 더 개발하고 추가하여 배포목표, 여행시 원하는 조건을 필터링 해서 동행을 안전하게 구할 수 있는 앱
