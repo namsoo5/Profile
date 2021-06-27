@@ -45,6 +45,7 @@ __모바일로 접속 시__ ⬇️⬇️밑의⬇️⬇️ `View all of README.m
 ## 활동
 
  * S.OWL 교내 IT 창업 동아리 
+   
     * 2018.06.01 ~ 현재
  * SOPT 대학생 연합 IT벤처 창업 동아리
     * iOS파트 25기 (2019.09.14 ~ 2020.01.06)
@@ -61,9 +62,15 @@ __모바일로 접속 시__ ⬇️⬇️밑의⬇️⬇️ `View all of README.m
     * `Server Driven UI`
     * 2020.05.06 ~ 2020.05.22
 * NEXTERS 17기 활동
+  
     * 2020.07.04 ~ 2020.08.22
-* Mash-Up 10기 활동
-    * 2020.11.28 ~
+* Mash-Up
+  
+    * iOS 10기 (2020.11.28 ~ 2021.05.08)
+    
+    * iOS 11기 
+    
+      
 
 <br>
 
@@ -245,7 +252,7 @@ __모바일로 접속 시__ ⬇️⬇️밑의⬇️⬇️ `View all of README.m
 
 ***
 
-* [`큐링`](https://github.com/namsoo5/Qring) - QR코드로 만들어가는 우리의 모임 SOPT APP JAM (팀)
+* `큐링` - QR코드로 만들어가는 우리의 모임 SOPT APP JAM (팀)
 
   * 진행기간 : 2020.06.27 ~ 2020.07.17
   * 주요내용 : QR 코드를 통해 모임의 시작을 빠르게, 모임의 끝엔 원활한 피드백을 통해 모임이 더 성숙해지고, 구성원은 함께 성장하게 됩니다.
@@ -284,3 +291,17 @@ __모바일로 접속 시__ ⬇️⬇️밑의⬇️⬇️ `View all of README.m
   * 링크:
     * iOS: [앱스토어](https://apps.apple.com/app/id1534315470)
     * Android: [플레이스토어](https://play.google.com/store/apps/details?id=com.uniview.allconnect&hl=ko)
+
+<br>
+
+***
+
+* `속닥속닥` - 음성 롤링페이퍼 앱 (팀)
+	* 진행기간 : 2021.01.09 ~ 2021.04.23
+	* 주요내용 : 링크를 통해서 롤링 페이퍼를 음성 또는 텍스트로 작성할 수 있고 전달 할 수 있는 서비스
+	* 구현기능 : 플레이어 구현, 녹음기 구현, 롤링페이퍼 답장리스트 구현, 롤링페이퍼 답장 작성 구현, 롤링페이퍼, 답장 읽기/삭제/신고 구현, 파이어베이스 딥링크 연동 및 방참여 구현, 호스트 / 게시트별 기능 구분과 구분에 따른 UI구현
+	* 기여도 : iOS(70%)
+	* 사용스킬 : **SwiftUI, Combine, Moya, Firebase DynamicLinks, AVFoundation**
+	* 링크 :
+		* iOS: [앱스토어](https://apps.apple.com/app/id1557251130)
+		* Android: [플레이스토어](https://play.google.com/store/apps/details?id=com.tdtd.voicepaper)
