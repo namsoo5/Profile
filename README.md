@@ -39,6 +39,7 @@ __모바일로 접속 시__ ⬇️⬇️밑의⬇️⬇️ `View all of README.m
         * 유니뷰 - iOS
     * [2021](#2021)
     	* 속닥속닥 - iOS
+    	* 나들길 - iOS
     	 
 <br>
 
@@ -313,3 +314,22 @@ __모바일로 접속 시__ ⬇️⬇️밑의⬇️⬇️ `View all of README.m
 	* 링크 :
 		* iOS: [앱스토어](https://apps.apple.com/app/id1557251130)
 		* Android: [플레이스토어](https://play.google.com/store/apps/details?id=com.tdtd.voicepaper)
+
+<br>
+
+***
+
+
+* `나들길` - 산책길 공유 앱 (팀)
+	* 진행기간 : 2021.09.26 ~ 2021.12.08
+	* 주요내용 : 내가 좋아하는 길을 공유하고 다른 사람들이 걸었던 길을 찾아볼 수 있는 서비스
+	* 구현기능 : 디자인컴포넌트, 카테고리별 리스트, 현위치 및 사용자가 저장한 위치 리스트, 길정보 리스트, 카테고리별 길검색, 검색어 길검색
+	* 기여도 : iOS(40%)
+	* 사용스킬 : **RxSwift, Moya, SnapKit, Kingfisher, Lottie**
+	* 링크 :
+		* iOS: [앱스토어](https://apps.apple.com/kr/app/1597551021)
+
+
+
+
+
